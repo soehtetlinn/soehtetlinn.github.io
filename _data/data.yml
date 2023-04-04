@@ -48,10 +48,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-          As a software engineer with 2 years of experience, I have a passion for developing innovative solutions to complex problems. My expertise in [insert relevant programming languages, tools, and technologies] has allowed me to deliver high-quality software products that meet business objectives.
-        I am well-versed in python and have worked on projects of varying scope and complexity. Additionally, I am a strong communicator and team player, thriving in collaborative environments and leading cross-functional teams when needed.
-        Continued learning and professional development is important to me, and I stay up-to-date with the latest industry trends through attending conferences, participating in online forums, and taking courses.
-        As a software engineer, I am driven by a desire to create meaningful impact on people's lives through developing new features and solving challenging technical problems. I am excited about the opportunity to contribute my skills and experience to a company that values innovation, collaboration, and continuous improvement.
+          As a software engineer with 2 years of experience, I have a passion for developing innovative solutions to complex problems.
+          My expertise in [insert relevant programming languages, tools, and technologies] has allowed me to deliver high-quality software 
+          products that meet business objectives.I am well-versed in python and have worked on projects of varying scope and complexity.
+          Additionally, I am a strong communicator and team player, thriving in collaborative environments and leading cross-functional teams when needed.
+          Continued learning and professional development is important to me, and I stay up-to-date with the latest industry trends through attending conferences,
+          participating in online forums, and taking courses.
+          As a software engineer, I am driven by a desire to create meaningful impact on people's lives through developing new features and solving challenging technical problems.
+          I am excited about the opportunity to contribute my skills and experience to a company that values innovation, collaboration, and continuous improvement.
 
 education:
     - degree: BcSc in Computer Science
