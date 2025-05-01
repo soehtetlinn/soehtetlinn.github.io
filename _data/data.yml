@@ -1,171 +1,144 @@
-#
 # Be aware that even a small syntax error here can lead to failures in output.
-#
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: True
+    education: True
 
     # Profile information
     name: Soe Htet Linn
-    tagline: Software Engineer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    tagline: Senior Odoo Developer
+    avatar: profile.png
 
     # Sidebar links
     email: mgsoehtetlinn@gmail.com
-    phone: +959954206788
-    citizenship: Myanmar
-    website: soehtetlinn.github.io #do not add http://
+    phone: +66641969318
+    citizenship: Myanmar/Thailand
+    website: soehtetlinn.github.io
     linkedin: https://www.linkedin.com/in/soe-htet-linn-255b4671/
-    xing: soehtetlinn
     github: soehtetlinn
-    telegram: soehtetlinn # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
+    telegram: soehtetlinn
     twitter: '@mgsoehtetlinn'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    stack-overflow:
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: 
+    goodreads:
+    pdf:
 
     languages:
       - idiom: English
         level: Professional
-
       - idiom: Chinese
         level: Professional
+      - idiom: Thai
+        level: Intermediate
 
     interests:
-      - item: Hiking
-        link:
-
-      - item: Gaming
-        link:
-
-      - item: Coding
-        link:
+      - item: Trekking
+      - item: Motorcycling
+      - item: Odoo Development
+      - item: Meditation
 
 career-profile:
     title: Career Profile
     summary: |
-          As a software engineer with 2 years of experience, I have a passion for developing innovative solutions to complex problems.
-          My expertise in [insert relevant programming languages, tools, and technologies] has allowed me to deliver high-quality software 
-          products that meet business objectives.I am well-versed in python and have worked on projects of varying scope and complexity.
-          Additionally, I am a strong communicator and team player, thriving in collaborative environments and leading cross-functional teams when needed.
-          Continued learning and professional development is important to me, and I stay up-to-date with the latest industry trends through attending conferences,
-          participating in online forums, and taking courses.
-          As a software engineer, I am driven by a desire to create meaningful impact on people's lives through developing new features and solving challenging technical problems.
-          I am excited about the opportunity to contribute my skills and experience to a company that values innovation, collaboration, and continuous improvement.
+      As a Senior Odoo Developer with 5+ years of experience, I specialize in building and customizing ERP solutions using Odoo (Python, JavaScript). My expertise spans full-cycle implementation, module development, and system integration (SAP, WordPress, Flutter, Android APIs).
+
+      Key strengths:
+      - Odoo specialist (versions 8-18, Community/Enterprise)
+      - Full-stack development (Python, PostgreSQL, XML, OWL JS)
+      - Cloud deployment (AWS, Digital Ocean)
+      - Cross-functional team leadership
+      - Business process optimization
+
+      I thrive in challenging environments that require technical innovation and problem-solving to drive business value.
 
 education:
-    - degree: BcSc in Computer Science
-      university: University of Computer Studies,Yangon
-      time: 2013 - 2018
+    - degree: BSc in Computer Science
+      university: University of Computer Studies, Yangon
+      time: 2013 - 2019
+
 experiences:
-    - role: Internship
-      time: May 2018 - August 2018 (4 months)
-      company: Frontiir Co.,Ltd
+    - role: Intern
+      time: May 2018 - August 2018
+      company: Frontiir Co., Ltd (Yangon)
       details: |
-        - Help on-going data-center project for NoSQL big data visualization and reporting for company wide
-        decision making and for cross-team decision making - using Hadoop, Hbase, Spark.
-        - Learn from my seniors about GIT and outstanding projects which they are trying to build from the
-        ground.
-        - Learn company structure and working nature to know more about my career goal.
+        - Assisted in NoSQL big data visualization project using Hadoop, HBase, Spark, Flask
+        - Learned Git workflows and company development processes
 
-    - role: Associate Software Engineer
-      time: Nov 2018 - Jul 2020 (1 year 9 months)
-      company: Frontiir Co.,Ltd
+    - role: Associate → Software Engineer
+      time: Nov 2018 - Jul 2022
+      company: Frontiir Co., Ltd (Yangon)
       details: |
-        OpenERP/Odoo Developer of financial service for Myanmar's largest ISP. Implemented reliable ERP
-        application for Enterprise users - using Python, Postgres, Javascript, XML and Redmine.
-        - Promoted from the associate position for the successful release of the
-        Myanmar Cast Android TV project integration with core team.
-        - Collaborate with product team and account analyst to define design and ship new features.
-        - Develop/ customize OpenERP/ Odoo modules and APIs in Python.
-        - Sustaining and improving existing ERP functions in production.
-        - Develop scripts for opening data and data migration.
-        - Verify accurate data entry and record-keeping in the system.
-        - Data Modeling, module, and report development.
-        - Write SQL scripts to extract, clean, and update data from the existing databases.
-        - Code refactoring for sustainability and performance tuning.
-        - Unit test for robustness, including edge cases, usability, and general reliability.
-        - Mentored and guide juniors to assign and perform tasks.
-        - Work with cross core system team to ensure overall billing process smooth.
-        Technical Responsibilities:
-           - Develop custom modules, reports and integrations in Odoo using Python, XML, and other web technologies
-            - Customize and configure existing Odoo modules to meet business requirements
-            - Write and optimize database queries for performance and efficiency
-            - Work with version control systems like Git, Gitlab, etc. to manage source code and Redmine for tracking project
-            - Implement and maintain Odoo deployments on various platforms including cloud, local servers and virtual machines
-            - Troubleshoot and resolve technical issues related to Odoo configuration, database and code
-            - Design and implement data migration strategies from legacy systems to Odoo
-            - Participate in code reviews, maintain coding standards, and ensure high quality code is delivered
+        - Developed Odoo ERP solutions for Myanmar's largest ISP (Python, PostgreSQL, JS)
+        - Key achievements:
+          * Led Myanmar Cast Android TV integration (promotion trigger)
+          * Built financial modules handling 1M+ transactions monthly
+          * Optimized SQL queries improving report generation by 40%
+        - Technical leadership:
+          * Mentored 3 junior developers
+          * Established code review standards
+          * Automated data migration processes
 
-    
-    -  role: Odoo Developer
-       time: Nov 2022 - Present
-       company: Myanmar Distribution Group Co.,Ltd, Yangon
-       details: |
-        OpenERP/Odoo Developer of One of the leading Distribution Company which outsourcing Software services from Offshore company.
-        Responsibilities-
-        - In-house Odoo projects using Odoo different versions 8, 13, 14, 15, 16.
-        - Requirements gathering from company stakeholders and cross-teams to analyze and software development.
-        - Analyzing and cleaning data inputs into systems.
-        - Support internal Business Operations team to better understanding of using Odoo software.
-        - Analyze business requirements and design solutions using Odoo ERP
-        - Gather and document functional requirements for customizations, integrations and reports
-        - Conduct user interviews, trainings, and support end-users in Odoo modules
-        - Provide consultation to clients on business processes and best practices
-        - Participate in project planning and estimation, scope definition and deliverable creation
-        - Collaborate with stakeholders to ensure system and process integration across the enterprise
-        - Develop and maintain documentation, user manuals, and other related technical documentation
-        - Perform functional testing, troubleshooting and debugging of system issues
+    - role: Senior Odoo Developer
+      time: Nov 2022 - Feb 2024
+      company: Myanmar Distribution Group Co., Ltd
+      details: |
+        - Spearheaded Odoo implementations for distribution business:
+          * Custom modules: Sales, Warehouse, Accounting, CRM (versions 8-16)
+          * Integrations: WordPress (e-commerce), Flutter mobile apps
+        - Business process consulting:
+          * Conducted 50+ user training sessions
+          * Reduced inventory errors by 35% through system optimization
 
-    
+    - role: Remote Senior Odoo Developer
+      time: Feb 2024 - May 2024
+      company: GNext Co., Ltd (Japan-based)
+      details: |
+        - Built Android-Odoo API infrastructure
+        - Customized reporting modules for Japanese market compliance
+
+    - role: Senior Odoo Developer
+      time: Jul 2024 - Present
+      company: Creative Dev Co., Ltd (Thailand)
+      details: |
+        - Current projects:
+          * SAP-Odoo workflow integration
+          * Odoo 17/18 POS customization (OWL JavaScript)
+          * Thailand-specific accounting/manufacturing modules
+          * Kasikorn Bank payment gateway integration
+
 projects:
-    title: Projects
+    title: Key Projects
     assignments:
-      - title: Mathrigola
-        link: "#hook"
-        tagline: "Help research NoSQL Databases for Frontiir Datacenter during internship"
+      - title: NoSQL Data Visualization
+        tagline: "Hadoop/Spark-based reporting system (Frontiir internship)"
+        
+      - title: Myanmar Cast Android TV
+        tagline: "Odoo integration project that earned promotion"
 
-      - title: ISP 2.0
-        link: "#"
-        tagline: "Improve performance between company's Core system and ERP system"
+      - title: E-commerce Integration
+        tagline: "WordPress-Odoo synchronization for Myanmar Distribution"
 
-      - title: PreorderForm
-        link: "#"
-        tagline: "Pre-sale module upon CRM model to help cross-team. "
+      - title: Thailand POS System
+        tagline: "Custom Odoo 18 POS with local payment gateways"
 
-      - title: Phone Number Cleansing
-        link: "#"
-        tagline: "Data Cleansing project to help ERP team and OSS cross team."
-
-      - title: Multi-company
-        link: "#"
-        tagline: "multi-company financial section to support in Odoo8.0."
+      - title: SAP-Odoo Bridge
+        tagline: "Real-time data sync between ERP systems"
 
 skills:
-    title: Skills &amp; Proficiency
-
+    title: Technical Skills
     toolset:
-      - name: Python & Django
+      - name: Odoo (Python/XML)
         level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: PostgreSQL
         level: 95%
-
-      - name: Ruby on Rails
+      - name: JavaScript (OWL, React)
+        level: 90%
+      - name: AWS Cloud
         level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SAP Integration
+        level: 80%
+      - name: Docker/Linux
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
