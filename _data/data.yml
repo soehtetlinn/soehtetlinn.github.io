@@ -97,14 +97,29 @@ experiences:
         - Customized reporting modules for Japanese market compliance
 
     - role: Senior Odoo Developer
-      time: Jul 2024 - Present
-      company: Creative Dev Co., Ltd (Thailand)
+      time: Sep 2024 - Aug 2025
+      company: Creative Dev Co., Ltd (Pathum Thani, Thailand)
       details: |
-        - Current projects:
-          * SAP-Odoo workflow integration
-          * Odoo 17/18 POS customization (OWL JavaScript)
-          * Thailand-specific accounting/manufacturing modules
-          * Kasikorn Bank payment gateway integration
+        - Thailand tax reporting (Withholding, VAT Output/Input, Income Tax reports)
+        - SAP-Odoo integration: modules, processes and workflows
+        - Odoo 17/18 POS customization (OWL JavaScript) for restaurants and shops
+        - Odoo 18 POS payment integration with Kasikorn Bank
+        - Reporting with QWeb and Jasper Report Server
+        - MRP and stock management customization
+        - Accounting, manufacturing and trading modules tailored for Thailand
+        - Server deployment and management
+
+    - role: Technical Team Lead
+      time: Mar 2026 - Sep 2026
+      company: Greenvia Thailand (Phuket)
+      details: |
+        Technical Team Lead for an enterprise transport & ticketing platform in Phuket, Thailand.
+
+        - **Architecture & Development:** led the end-to-end architecture and core development of an enterprise transport and ticketing booking system on Odoo 18 Enterprise (Odoo.sh)
+        - **Payment Integration:** Omise (credit card, TrueMoney), PromptPay QR and 7-Eleven counter payments with automated real-time reconciliation
+        - **Reporting & Analytics:** dynamic QWeb reports and dashboards for routes, ticket sales and operational KPIs
+        - **DevOps:** GitHub repositories and CI/CD pipelines for modular releases on Odoo.sh
+        - **Team Management:** agile workflows and sprint planning with Jira and Slack
 
 projects:
     title: Key Projects
@@ -123,6 +138,18 @@ projects:
 
       - title: SAP-Odoo Bridge
         tagline: "Real-time data sync between ERP systems"
+
+      - title: Transport & Ticketing Platform
+        tagline: "Odoo 18 Enterprise booking system with Omise, PromptPay and 7-Eleven payments (Greenvia)"
+
+      - title: Marketplace Connectors
+        tagline: "Odoo integration with Shopee and TikTok Shop"
+
+      - title: Car Dealer Software
+        tagline: "Odoo-based dealership management"
+
+      - title: Thailand Tax Reports
+        tagline: "Withholding tax and VAT / No-VAT reports for Odoo"
 
 skills:
     title: Technical Skills
